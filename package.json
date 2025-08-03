@@ -1,0 +1,12 @@
+{
+  "name": "websocket_server_acmess",
+  "version": "1.0.0",
+  "description": "Servidor WebSocket para turnos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
